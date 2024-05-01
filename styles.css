@@ -24,7 +24,7 @@ table {
   }
   
   td:last-of-type {
-    text-align: center;
+    text-align: left;
   }
   
   tbody > tr:nth-of-type(even) {
@@ -38,3 +38,9 @@ table {
   tfoot td {
     font-weight: bold;
   }
+
+  img {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    }
